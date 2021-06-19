@@ -2,7 +2,7 @@
   <h2>About Me</h2>
 </div>
 <h2>
-  <img src="./assets/dark-souls-bonfire.gif" alt="" width="50" />
+  <img src="https://raw.githubusercontent.com/unkindledG/unkindledG/master/assets/dark-souls-bonfire.gif" alt="" width="50" />
 </h2>
 <div>
   <i>
