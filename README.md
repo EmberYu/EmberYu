@@ -1,10 +1,11 @@
 <div>
   <h2>About Me</h2>
 </div>
-<h2>
+<h3>
   <img src="https://raw.githubusercontent.com/unkindledG/unkindledG/master/assets/dark-souls-bonfire.gif" alt="" width="50" />
-</h2>
-<div>
+
+  </h3>
+  <div>
   <i>
     Nameless, accursed Undead, unfit even to be cinder. And so it is, that ash
     seeketh embers
