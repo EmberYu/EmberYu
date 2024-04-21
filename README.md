@@ -31,7 +31,7 @@
 <br />
 去年自学了一段时间flutter，制作了一个flutter版本的2048小游戏。(请在移动端模式浏览)
 <br />
-<a href="https://unkindledg.github.io/flutter_2048/web/#/" target="__blank"
+<a href="https://emberyu.github.io/flutter_2048/web/#/" target="__blank"
   >flutter 2048</a
 >
 
