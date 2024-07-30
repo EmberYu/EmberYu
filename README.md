@@ -14,12 +14,11 @@
 <br />
 <span> 💻 &nbsp;Frontend Developer </span>
 <br />
-<span>🕹 &nbsp;Gamer</span>
 <br />
 <br />
 <span>
   Hi,
-  我是Evan</span
+  This is Evan, Became Frontend Developer since 2016, Experience with web development (React&Vue)</span
 >
 <br />
 <br />
